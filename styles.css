@@ -183,6 +183,7 @@ a.social:hover {
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
+      flex-flow: row wrap;
   }
 
   header {
